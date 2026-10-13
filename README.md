@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Edvinas 👋</h1>
 <p align="center">
   <img src="./terminal.svg" alt="Terminal intro: whoami, interests, projects" />
 </p>
@@ -8,7 +7,7 @@
 ### 🚀 What I'm working on
 
 - 🎸 **[Bassova](https://github.com/edva-code/Bassova)**: turns music (recorded, eventually live) into bass tabs and sheet music.
-- 🤖 **[ai-agent-pr-checker](https://github.com/edva-code/ai-agent-pr-checker)**: an AI agent that reviews pull requests.
+- 🤖 **[ai-agent-pr-checker](https://github.com/edva-code/ai-agent-pr-checker)**: project for data handling and visualisation
 
 ### 🧰 Tech I use
 
