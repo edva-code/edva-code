@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal.svg" alt="Terminal intro: whoami, interests, projects" />
+  <img src="./terminal.svg?v=2" alt="Terminal intro: whoami, interests, projects" />
 </p>
 
 ---
