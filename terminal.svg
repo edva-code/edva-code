@@ -26,7 +26,7 @@
     <text x="20" y="180" xml:space="preserve" opacity="0" fill="#7dcfff">Bassova  ai-agent-pr-checker  live-translator<set attributeName="opacity" to="1" begin="4.5s" fill="freeze"/></text>
 
     <text x="20" y="204" clip-path="url(#c4)"><tspan fill="#9ece6a">➜</tspan> <tspan fill="#7aa2f7">~</tspan> cat stack.txt</text>
-    <text x="20" y="228" opacity="0" fill="#e0af68">TypeScript · Python · C# · HTML/CSS · Git · Linux<set attributeName="opacity" to="1" begin="6.1s" fill="freeze"/></text>
+    <text x="20" y="228" opacity="0" fill="#e0af68">Python · SQL/PostgreSQL · dbt · Pandas · NumPy · C# · Git · Linux<set attributeName="opacity" to="1" begin="6.1s" fill="freeze"/></text>
 
     <text x="20" y="262" opacity="0"><tspan fill="#9ece6a">➜</tspan> <tspan fill="#7aa2f7">~</tspan><set attributeName="opacity" to="1" begin="6.6s" fill="freeze"/></text>
     <g opacity="0">
